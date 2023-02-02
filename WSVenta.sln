@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WSVenta", "WSVenta\WSVenta.csproj", "{F4FAEF7B-72AD-4C37-BAEC-A083FCD24D07}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4DF9A103-D005-4C6E-BB6F-618D1C08BEF6}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4FAEF7B-72AD-4C37-BAEC-A083FCD24D07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4FAEF7B-72AD-4C37-BAEC-A083FCD24D07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4FAEF7B-72AD-4C37-BAEC-A083FCD24D07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4FAEF7B-72AD-4C37-BAEC-A083FCD24D07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F247486-42C7-473A-9D1D-B5ABD2FF4874}
+	EndGlobalSection
+EndGlobal
